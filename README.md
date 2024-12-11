@@ -1,5 +1,10 @@
 # Asteroids
 
+This program replicates a simple version of
+[asteroids](https://en.wikipedia.org/wiki/Asteroids_(video_game)).
+
+## Installation
+
 - This project uses Python and thus the Python interpreter is needed, click
   [here](https://www.python.org/downloads/) for more information on how to install
   it.
