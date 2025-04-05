@@ -1,5 +1,7 @@
 # Asteroids
 
+> Brought to you thanks to [boot.dev](https://www.boot.dev/)
+
 This program replicates a simple version of
 [asteroids](https://en.wikipedia.org/wiki/Asteroids_(video_game)).
 
@@ -17,7 +19,7 @@ To start first clone the repository:
 git clone https://github.com/MoXcz/asteroids.git --depth 1
 ```
 
-Now run the following commands to create and activate a virtual environment 
+Now run the following commands to create and activate a virtual environment
 with the dependencies of the project:
 
 ```python
